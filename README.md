@@ -29,4 +29,6 @@ Getting tired of setuping your new library environment? Just fork this project a
 1. Setup NPM deployment with Travis CI
     - `travis setup npm`
     - See https://docs.travis-ci.com/user/deployment/npm/
+1. Set the badge URL in the readme
+1. Rewrite this readme
 1. Commit and you're ready to start your library!
