@@ -17,9 +17,13 @@ Getting tired of setuping your new library environment? Just fork this project a
  - Travis CI
 
 ## Steps to get started
-1. Fork this project
-1. Rename the repository with your project name
-1. Clone on your computer
+1. Create your project on GitHub
+1. Copy this project
+    - git clone https://github.com/reactivestack/react-library-starterkit.git
+    - mv react-library-starterkit YOUR-PROJECT-NAME
+    - cd your-project-name
+    - git remote set-url origin YOUR-REPO-URL
+    - git push origin master
 1. Open package.json and find & replace:
    - `PROJECT_NAME`
    - `$PROJECT_DESCRIPTION$`
