@@ -20,8 +20,8 @@ Getting tired of setuping your new library environment? Just fork this project a
 1. Fork this project
 1. Rename the repository with your project name
 1. Clone on your computer
-1. Open package.json and replace:
-   - `$PROJECT_NAME$`
+1. Open package.json and find & replace:
+   - `PROJECT_NAME`
    - `$PROJECT_DESCRIPTION$`
    - `$PROJECT_KEYWORDS$`
    - `$PROJECT_AUTHOR$`
