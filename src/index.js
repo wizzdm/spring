@@ -2,7 +2,7 @@
 import React from 'react';
 
 export type IndexProps = {
-  test: boolean,
+  test: ?boolean,
 };
 
 export default function Index({ test }: IndexProps) {
