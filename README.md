@@ -1,6 +1,6 @@
 # React Library Starter Kit
-[![npm version](https://badge.fury.io/js/PROJECT_NAME.svg)](https://badge.fury.io/js/PROJECT_NAME)
-[![Build Status](https://travis-ci.org/GITHUB_ACCOUNT/PROJECT_NAME.svg?branch=master)](https://travis-ci.org/GITHUB_ACCOUNT/PROJECT_NAME)
+[![npm version](https://badge.fury.io/js/npm.svg)](https://badge.fury.io/js/npm.svg)
+[![Build Status](https://travis-ci.org/wizzdm/spring.svg?branch=master)](https://travis-ci.org/wizzdm/spring)
 
 Getting tired of setuping your new library environment? Just fork this project and follow the steps.
 
